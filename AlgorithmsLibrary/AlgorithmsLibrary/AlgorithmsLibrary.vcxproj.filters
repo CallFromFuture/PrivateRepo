@@ -24,12 +24,24 @@
     <ClInclude Include="targetver.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="AlgorithmsCore.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StopWatch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="AlgorithmsLibrary.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AlgorithmsCore.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StopWatch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
